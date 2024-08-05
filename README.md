@@ -20,7 +20,7 @@ MultiImage Area Selector is a React-based application that allows users to uploa
   ### Installation
   
    - git clone
-   - cd
+   - cd MultiImage-Areas-Selector
    - npm install
    - npm run dev
 
@@ -28,7 +28,7 @@ This will launch the application on http://localhost:5173 (if 5173 port is not o
 
  ### Project Structure
   - src/App.tsx: Main component handling image upload and managing the list of images.
-  - src/components/CropImage.tsx: Component for handling image display, selection and coordinate of selected areas, and deletion functionalities using canvas.
+  - src/components/cropImage.tsx: Component for handling image display, selection and coordinate of selected areas, and deletion functionalities using canvas.
 
 
 ## License
